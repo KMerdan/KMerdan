@@ -5,7 +5,7 @@
     <td>
     <p> 
         Hi👋,I am Kiji  (<span lang="zh-cn">亀茲</span>), a <span property="tittle">Research Scientist<span> 
-        at  <a href="https://www.honda.co.jp/RandD/">Honda R&D</a>,
+        at  <a href="https://www.seqsense.com/">Seqsense Inc.</a>,
         I received my PhD at <a href="http://www.okayama-u.ac.jp/">Okayama University</a> in 2017,
         advised by <a href="https://researchmap.jp/read0172562"> Prof. Keigo Watanabe</a>. 
         I recieved my bachelor degree at 
